@@ -1,0 +1,5 @@
+{
+    "storage_bucket": "uptycs-agents",
+    "project_list": ["precise-mystery-405902", "projectus-2-foo"],
+    "zone_list": ["us-east1-b", "us-central1-a"]
+}
