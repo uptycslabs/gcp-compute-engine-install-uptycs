@@ -61,7 +61,6 @@ class LogHandler:
             We keep all the log files in a cloud storage bucket. 
             A future feature might keep n files only in the storage bucket.
         """
-
         log_file_list = glob.glob('*.log')
         for f in log_file_list: 
             if f != self.log_filename:
