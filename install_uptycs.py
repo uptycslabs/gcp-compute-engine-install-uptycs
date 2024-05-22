@@ -1,4 +1,6 @@
-""" This module installs Uptycs onto GCP Compute Engines """
+""" This module installs Uptycs onto GCP Compute Engines 
+    v0.2
+"""
 
 import googleapiclient.discovery
 import json
